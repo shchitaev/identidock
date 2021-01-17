@@ -8,4 +8,4 @@
 ```dotenv
 docker-compose up 
 ```
-2\) Приложение будет развернуто по адрессу http://localhost:/9080
+2\) Приложение будет развернуто по адрессам http://localhost:/9090 и http://localhost:/9191
